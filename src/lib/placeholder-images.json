@@ -1,0 +1,8 @@
+
+{
+  "notFoundBg": {
+    "src": "https://picsum.photos/seed/404bg/600/400",
+    "alt": "Abstract background for 404 page",
+    "aiHint": "abstract animation"
+  }
+}
